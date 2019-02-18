@@ -1,0 +1,7 @@
+{
+"R*EFT": "{MODE:RESET}",
+"R-R": "{#Return}{^}",
+"ST*EPB": "{PLOVER:TOGGLE}",
+"TK*EUBGT": "{PLOVER:ADD_TRANSLATION}",
+"TKEUBGT": "{PLOVER:LOOKUP}"
+}
